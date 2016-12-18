@@ -45,6 +45,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [resinOS](https://resinos.io) - open source OS to run Docker containers on embedded devices that's been designed for reliability and proven in production.
 - [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) - Linux Fedora distribution built for the Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) - Linux distribution that turns a single-board computer into a video surveillance system.
+- [Lepidopter](https://github.com/TheTorProject/lepidopter) - Lepidopter is an ooniprobe distribution for Raspberry Pis. ooniprobe is tool for performing internet censorship measurements.
 
 ## Tools
 - [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
